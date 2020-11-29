@@ -1,0 +1,27 @@
+body{
+    background-color: beige;
+    text-align: center;
+    /* margin: 250px; */
+}
+
+.main{
+    border: black solid;
+    width: 900px;
+    height: 600px;
+    padding: 20px 20px 20px 20px;
+
+}
+#OddList{
+    border: black solid;
+    width: 250px;
+    height: 250px;
+    margin-top: 50px;
+    
+}
+#evenList{
+    border: black solid;
+    width: 250px;
+    height: 250px;
+    margin-left: auto;
+    margin-bottom: 50px;
+}
